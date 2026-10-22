@@ -1,311 +1,315 @@
 {
- "name": "Remy Lawyer",
- "headline": "Advanced Networking & Cloud Engineering student",
- "photo": "assets/remy.jpg",
- "contact": {
-  "phone": "0455 222 680",
-  "email": "remylawyer1995@gmail.com",
-  "location": "Gold Coast, QLD"
- },
- "profile": "I am an individual with a diverse wealth of skills and experience that would be an asset to your organisation. I’m a fast learner who pays great attention to detail and takes immense pride in the quality of my work. I’m comfortable working under the pressure of deadlines, targets, and have an enthusiastic, level-headed, and solution-oriented approach. Given the opportunity, I will quickly prove myself to be a consistent, professional, and hard-working addition to your company. I am available 24/7 for an immediate start.",
- "education": [
-  {
-   "school": "TAFE Queensland",
-   "detail": "Diploma of IT Advanced Networking & Cloud Engineering (full time)",
-   "dates": "06/26 - Current"
+  "name": "Remy Lawyer",
+  "headline": "Advanced Networking & Cloud Engineering student",
+  "photo": "assets/remy.jpg",
+  "contact": {
+    "phone": "0455 222 680",
+    "email": "remylawyer1995@gmail.com",
+    "location": "Gold Coast, QLD"
   },
-  {
-   "school": "Grossmont College, El Cajon, California",
-   "detail": "Sophomore Year. Majored in Psychology. Member of the Men’s Basketball Team",
-   "dates": "2014 - 2015"
-  },
-  {
-   "school": "Miramar College, San Diego, California",
-   "detail": "Freshman Year. Majored in Psychology. Member of the Men’s Basketball Team",
-   "dates": "2013 - 2014"
-  },
-  {
-   "school": "Helensvale State High School",
-   "detail": "Gold Coast, QLD. Graduated in 2012. Attained Queensland Certificate of Education",
-   "dates": "2012"
-  }
- ],
- "certs": [
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "Diploma of IT Advanced Networking & Cloud Engineering",
-   "issuer": "TAFE Queensland",
-   "year": "Started 06/26",
-   "status": "progress",
-   "note": "In progress"
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "Certificate III in Sports & Recreation",
-   "issuer": "",
-   "year": "",
-   "status": "done",
-   "note": "Completed",
-   "resumeOrder": 5
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "Queensland Certificate of Education",
-   "issuer": "Helensvale State High School",
-   "year": "2012",
-   "status": "done",
-   "note": "Completed"
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "TMI Licence (Traffic Management Implementer)",
-   "issuer": "",
-   "year": "",
-   "status": "done",
-   "note": "Held",
-   "resumeOrder": 2
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "First Aid & CPR",
-   "issuer": "",
-   "year": "",
-   "status": "done",
-   "note": "Held",
-   "resumeOrder": 3
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "Blue Card (Working With Children Check, Paid)",
-   "issuer": "",
-   "year": "",
-   "status": "done",
-   "note": "Held",
-   "resumeOrder": 4
-  },
-  {
-   "group": "Diplomas, qualifications and licences",
-   "name": "QLD Class C Driver’s License",
-   "issuer": "",
-   "year": "",
-   "status": "done",
-   "note": "Held",
-   "resumeOrder": 1
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "CCNA: Introduction to Networks",
-   "issuer": "TAFE Queensland Gold Coast",
-   "year": "16 Sep 2026",
-   "status": "done",
-   "note": "Completed via Cisco Networking Academy",
-   "file": "assets/certs/ccna-introduction-to-networks.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Introduction to Cybersecurity",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/introduction-to-cybersecurity.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Security and Connectivity Support",
-   "issuer": "Cisco Networking Academy",
-   "year": "09 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/security-and-connectivity-support.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Operating Systems Support",
-   "issuer": "Cisco Networking Academy",
-   "year": "11 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/operating-systems-support.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Hardware and Upgrade Support",
-   "issuer": "Cisco Networking Academy",
-   "year": "09 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/hardware-and-upgrade-support.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "IT Customer Support Basics",
-   "issuer": "Cisco Networking Academy",
-   "year": "09 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/it-customer-support-basics.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "IT Support Specialist Pathway Exam",
-   "issuer": "Cisco Networking Academy",
-   "year": "11 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/it-support-specialist-pathway-exam.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Introduction to Modern AI",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/introduction-to-modern-ai.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Core Generative AI Skills",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/core-generative-ai-skills.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Optimizing Generative AI",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/optimizing-generative-ai.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "Find Insights with AI",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/find-insights-with-ai.pdf"
-  },
-  {
-   "group": "Cisco Networking Academy",
-   "name": "AI Power User Launchpad",
-   "issuer": "Cisco Networking Academy",
-   "year": "08 Oct 2026",
-   "status": "done",
-   "note": "Completed",
-   "file": "assets/certs/ai-power-user-launchpad.pdf"
-  }
- ],
- "projects": [
-  {
-   "title": "Home lab: add your first build",
-   "desc": "Describe what you built, the problem it solved and what you learned. Link the repo or write-up.",
-   "tags": [
-    "Add tools used"
-   ],
-   "placeholder": true
-  },
-  {
-   "title": "TAFE assessment: add a highlight",
-   "desc": "Pick a piece of coursework you are proud of and summarise the design and result.",
-   "tags": [
-    "Add tools used"
-   ],
-   "placeholder": true
-  }
- ],
- "showUberEats": true,
- "jobs": [
-  {
-   "role": "Delivery Partner",
-   "org": "UberEats",
-   "dates": "09/25 - Current",
-   "text": "Delivering food orders to customers on a flexible schedule alongside full-time study.",
-   "current": true,
-   "optional": "uber"
-  },
-  {
-   "role": "Traffic Management Implementer",
-   "org": "WorkCon",
-   "dates": "03/25 - 06/26",
-   "text": "Implementing traffic management plans and controlling traffic around worksites."
-  },
-  {
-   "role": "Traffic Controller",
-   "org": "Better Traffic Solutions",
-   "dates": "10/24 - 02/25",
-   "text": "Controlling and directing traffic around works to keep workers and the public safe."
-  },
-  {
-   "role": "Coach/Mentor",
-   "org": "PRIDE Performance Basketball Academy",
-   "dates": "09/23 - 09/24",
-   "text": "Coaching and mentoring young athletes for athletic performance, mental strategies & basketball related skills. Digital content for marketing & educational purposes. Coaching ages from 7-30+ years of age."
-  },
-  {
-   "role": "Player & Coach",
-   "org": "C-Dunk Basketball (Hanoi, Vietnam)",
-   "dates": "09/18 - 08/21",
-   "text": "Playing for the C-Dunk Basketball team while coaching their youth & female teams. Received most valuable player honours 2 years consecutively & coached the youth team to back-to-back final appearances & the female team to the finals in the 2nd season."
-  },
-  {
-   "role": "English Teacher & Coach",
-   "org": "MVP Basketball Academy (Hanoi, Vietnam)",
-   "dates": "09/21 - 10/22",
-   "text": "Teaching English to Vietnamese Students, general fitness & exercise principles, including basketball skills depending on student’s skill & age. Online instructional videos & various marketing commitments."
-  },
-  {
-   "role": "English Teacher & Coach",
-   "org": "E-Balls Basketball Academy (Hanoi, Vietnam)",
-   "dates": "09/18 - 09/21",
-   "text": "Teaching English to Vietnamese Students, general fitness & exercise principles, including basketball skills depending on student’s skill & age. Online instructional videos & various marketing commitments."
-  },
-  {
-   "role": "P.E. & Basketball Coach",
-   "org": "AB Paterson School",
-   "dates": "01/16 - 08/16, 01/18 - 08/18",
-   "text": "Teaching physical educational theories as well as running physical activities for a range of classes. Coaching the school’s basketball team."
-  },
-  {
-   "role": "Cook",
-   "org": "Mariner’s Cove Fish & Chips",
-   "dates": "10/17 - 07/18",
-   "text": "Preparing and completing orders consisting of seafood, chicken, burgers, salads & sides. Using deep fryer, cast iron grill. Filleted Fish, prepared salads and various sauces."
-  },
-  {
-   "role": "Teacher Assistant",
-   "org": "Caranity School",
-   "dates": "08/17 - 12/17",
-   "text": "Taking the students for various recreational activities and assisting the students with their schoolwork and behaviour throughout the course of the school day."
-  },
-  {
-   "role": "Line Cook/Kitchen Hand",
-   "org": "CAFÉ 4 U",
-   "dates": "09/16 - 03/17",
-   "text": "Preparing Breakfast items, salads, burgers, wraps, seafood and other mains such as pork and chicken. Using cast iron grill, deep fryer, poacher, salamander grill and hot plates."
-  },
-  {
-   "role": "Player, Coach & Referee",
-   "org": "Gladstone “Port City” Basketball",
-   "dates": "05/16 - 08/16, 01/17 - 09/17",
-   "text": "Playing for the club in the QBL (Queensland Basketball League), improving juniors in game and practicing situations, umpiring social league games."
-  },
-  {
-   "role": "Line Cook (Grill)",
-   "org": "BJ's Restaurant & Brewhouse (San Diego, USA)",
-   "dates": "01/16 - 05/16",
-   "text": "Preparing ingredients, grilling steak, salmon & rib orders, grilling various patties, refilling condiments and sauces as necessary, sweeping, mopping & sanitising floors and surfaces."
-  },
-  {
-   "role": "Cashier/Floor Clerk",
-   "org": "Rite Aid (San Diego, USA)",
-   "dates": "01/13 - 11/16",
-   "text": "Cashier, Photo Service Operator, Sweeping/mopping and general maintenance of the store, attending to customer complaints and returning of merchandise, verifying nightly deposits, stocking and straightening of store merchandise."
-  }
- ]
+  "profile": "I am an individual with a diverse wealth of skills and experience that would be an asset to your organisation. I’m a fast learner who pays great attention to detail and takes immense pride in the quality of my work. I’m comfortable working under the pressure of deadlines, targets, and have an enthusiastic, level-headed, and solution-oriented approach. Given the opportunity, I will quickly prove myself to be a consistent, professional, and hard-working addition to your company. I am available 24/7 for an immediate start.",
+  "education": [
+    {
+      "school": "TAFE Queensland",
+      "detail": "Diploma of IT Advanced Networking & Cloud Engineering (full time)",
+      "dates": "06/26 - Current"
+    },
+    {
+      "school": "Grossmont College, El Cajon, California",
+      "detail": "Sophomore Year. Majored in Psychology. Member of the Men’s Basketball Team",
+      "dates": "2014 - 2015"
+    },
+    {
+      "school": "Miramar College, San Diego, California",
+      "detail": "Freshman Year. Majored in Psychology. Member of the Men’s Basketball Team",
+      "dates": "2013 - 2014"
+    },
+    {
+      "school": "Helensvale State High School",
+      "detail": "Gold Coast, QLD. Graduated in 2012. Attained Queensland Certificate of Education",
+      "dates": "2012"
+    }
+  ],
+  "certs": [
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "Diploma of IT Advanced Networking & Cloud Engineering",
+      "issuer": "TAFE Queensland",
+      "year": "Started 06/26",
+      "status": "progress",
+      "note": "In progress"
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "Certificate III in Sports & Recreation",
+      "issuer": "",
+      "year": "",
+      "status": "done",
+      "note": "Completed",
+      "resumeOrder": 5
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "Queensland Certificate of Education",
+      "issuer": "Helensvale State High School",
+      "year": "2012",
+      "status": "done",
+      "note": "Completed"
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "TMI Licence (Traffic Management Implementer)",
+      "issuer": "",
+      "year": "",
+      "status": "done",
+      "note": "Held",
+      "resumeOrder": 2
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "First Aid & CPR",
+      "issuer": "",
+      "year": "",
+      "status": "done",
+      "note": "Held",
+      "resumeOrder": 3
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "Blue Card (Working With Children Check, Paid)",
+      "issuer": "",
+      "year": "",
+      "status": "done",
+      "note": "Held",
+      "resumeOrder": 4
+    },
+    {
+      "group": "Diplomas, qualifications and licences",
+      "name": "QLD Class C Driver’s License",
+      "issuer": "",
+      "year": "",
+      "status": "done",
+      "note": "Held",
+      "resumeOrder": 1
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "CCNA: Introduction to Networks",
+      "issuer": "TAFE Queensland Gold Coast",
+      "year": "16 Sep 2026",
+      "status": "done",
+      "note": "Completed via Cisco Networking Academy",
+      "file": "assets/certs/ccna-introduction-to-networks.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Introduction to Cybersecurity",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/introduction-to-cybersecurity.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Security and Connectivity Support",
+      "issuer": "Cisco Networking Academy",
+      "year": "09 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/security-and-connectivity-support.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Operating Systems Support",
+      "issuer": "Cisco Networking Academy",
+      "year": "11 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/operating-systems-support.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Hardware and Upgrade Support",
+      "issuer": "Cisco Networking Academy",
+      "year": "09 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/hardware-and-upgrade-support.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "IT Customer Support Basics",
+      "issuer": "Cisco Networking Academy",
+      "year": "09 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/it-customer-support-basics.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "IT Support Specialist Pathway Exam",
+      "issuer": "Cisco Networking Academy",
+      "year": "11 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/it-support-specialist-pathway-exam.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Introduction to Modern AI",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/introduction-to-modern-ai.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Core Generative AI Skills",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/core-generative-ai-skills.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Optimizing Generative AI",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/optimizing-generative-ai.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "Find Insights with AI",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/find-insights-with-ai.pdf"
+    },
+    {
+      "group": "Cisco Networking Academy",
+      "name": "AI Power User Launchpad",
+      "issuer": "Cisco Networking Academy",
+      "year": "08 Oct 2026",
+      "status": "done",
+      "note": "Completed",
+      "file": "assets/certs/ai-power-user-launchpad.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Networking Reference Toolkit",
+      "desc": "A practical networking resource with quick-reference sheets, troubleshooting playbooks, command references and learning material from foundational networking through CCNA preparation.",
+      "tags": [
+        "Networking",
+        "Troubleshooting",
+        "CCNA",
+        "GitHub Pages"
+      ],
+      "url": "https://remylawyer.github.io/networking-reference-toolkit/",
+      "placeholder": false
+    },
+    {
+      "title": "TAFE assessment: add a highlight",
+      "desc": "Pick a piece of coursework you are proud of and summarise the design and result.",
+      "tags": [
+        "Add tools used"
+      ],
+      "placeholder": true
+    }
+  ],
+  "showUberEats": true,
+  "jobs": [
+    {
+      "role": "Delivery Partner",
+      "org": "UberEats",
+      "dates": "09/25 - Current",
+      "text": "Delivering food orders to customers on a flexible schedule alongside full-time study.",
+      "current": true,
+      "optional": "uber"
+    },
+    {
+      "role": "Traffic Management Implementer",
+      "org": "WorkCon",
+      "dates": "03/25 - 06/26",
+      "text": "Implementing traffic management plans and controlling traffic around worksites."
+    },
+    {
+      "role": "Traffic Controller",
+      "org": "Better Traffic Solutions",
+      "dates": "10/24 - 02/25",
+      "text": "Controlling and directing traffic around works to keep workers and the public safe."
+    },
+    {
+      "role": "Coach/Mentor",
+      "org": "PRIDE Performance Basketball Academy",
+      "dates": "09/23 - 09/24",
+      "text": "Coaching and mentoring young athletes for athletic performance, mental strategies & basketball related skills. Digital content for marketing & educational purposes. Coaching ages from 7-30+ years of age."
+    },
+    {
+      "role": "Player & Coach",
+      "org": "C-Dunk Basketball (Hanoi, Vietnam)",
+      "dates": "09/18 - 08/21",
+      "text": "Playing for the C-Dunk Basketball team while coaching their youth & female teams. Received most valuable player honours 2 years consecutively & coached the youth team to back-to-back final appearances & the female team to the finals in the 2nd season."
+    },
+    {
+      "role": "English Teacher & Coach",
+      "org": "MVP Basketball Academy (Hanoi, Vietnam)",
+      "dates": "09/21 - 10/22",
+      "text": "Teaching English to Vietnamese Students, general fitness & exercise principles, including basketball skills depending on student’s skill & age. Online instructional videos & various marketing commitments."
+    },
+    {
+      "role": "English Teacher & Coach",
+      "org": "E-Balls Basketball Academy (Hanoi, Vietnam)",
+      "dates": "09/18 - 09/21",
+      "text": "Teaching English to Vietnamese Students, general fitness & exercise principles, including basketball skills depending on student’s skill & age. Online instructional videos & various marketing commitments."
+    },
+    {
+      "role": "P.E. & Basketball Coach",
+      "org": "AB Paterson School",
+      "dates": "01/16 - 08/16, 01/18 - 08/18",
+      "text": "Teaching physical educational theories as well as running physical activities for a range of classes. Coaching the school’s basketball team."
+    },
+    {
+      "role": "Cook",
+      "org": "Mariner’s Cove Fish & Chips",
+      "dates": "10/17 - 07/18",
+      "text": "Preparing and completing orders consisting of seafood, chicken, burgers, salads & sides. Using deep fryer, cast iron grill. Filleted Fish, prepared salads and various sauces."
+    },
+    {
+      "role": "Teacher Assistant",
+      "org": "Caranity School",
+      "dates": "08/17 - 12/17",
+      "text": "Taking the students for various recreational activities and assisting the students with their schoolwork and behaviour throughout the course of the school day."
+    },
+    {
+      "role": "Line Cook/Kitchen Hand",
+      "org": "CAFÉ 4 U",
+      "dates": "09/16 - 03/17",
+      "text": "Preparing Breakfast items, salads, burgers, wraps, seafood and other mains such as pork and chicken. Using cast iron grill, deep fryer, poacher, salamander grill and hot plates."
+    },
+    {
+      "role": "Player, Coach & Referee",
+      "org": "Gladstone “Port City” Basketball",
+      "dates": "05/16 - 08/16, 01/17 - 09/17",
+      "text": "Playing for the club in the QBL (Queensland Basketball League), improving juniors in game and practicing situations, umpiring social league games."
+    },
+    {
+      "role": "Line Cook (Grill)",
+      "org": "BJ's Restaurant & Brewhouse (San Diego, USA)",
+      "dates": "01/16 - 05/16",
+      "text": "Preparing ingredients, grilling steak, salmon & rib orders, grilling various patties, refilling condiments and sauces as necessary, sweeping, mopping & sanitising floors and surfaces."
+    },
+    {
+      "role": "Cashier/Floor Clerk",
+      "org": "Rite Aid (San Diego, USA)",
+      "dates": "01/13 - 11/16",
+      "text": "Cashier, Photo Service Operator, Sweeping/mopping and general maintenance of the store, attending to customer complaints and returning of merchandise, verifying nightly deposits, stocking and straightening of store merchandise."
+    }
+  ]
 }

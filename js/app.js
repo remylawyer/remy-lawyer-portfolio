@@ -83,7 +83,7 @@ const renders = {
     <h4>Work experience</h4>${jobs.map((j, n) => `<details ${n < 4 ? 'open' : ''}><summary><span>${j.current ? '<i class="dot" title="Current"></i>' : ''}<b>${esc(j.role)}</b> at ${esc(j.org)}</span><time>${esc(j.dates)}</time></summary><p>${esc(j.text)}</p></details>`).join('')}`;
   },
   projects: () => `<h3>Projects</h3><p>Builds and lab work.</p><div class="cards">${D.projects.map(p =>
-    `<article class="card ${p.placeholder ? 'placeholder' : ''}"><h3>${esc(p.title)}</h3><p>${esc(p.desc)}</p>${p.tags.map(t => `<span class="tag">${esc(t)}</span>`).join('')}${p.placeholder ? '<small>Placeholder. Edit data/data.json.</small>' : ''}</article>`).join('')}</div>`,
+    `<article class="card ${p.placeholder ? 'placeholder' : ''}"><h3>${esc(p.title)}</h3><p>${esc(p.desc)}</p>${p.tags.map(t => `<span class="tag">${esc(t)}</span>`).join('')}${p.url ? `<a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">Open Project ↗</a>` : ''}${p.placeholder ? '<small>Placeholder. Edit data/data.json.</small>' : ''}</article>`).join('')}</div>`,
   contact: () => `<h3>Contact</h3><dl class="rows"><dt>Email</dt><dd><a href="mailto:${esc(D.contact.email)}">${esc(D.contact.email)}</a></dd>
     <dt>Phone</dt><dd><a href="tel:${esc(D.contact.phone.replace(/\s/g, ''))}">${esc(D.contact.phone)}</a></dd><dt>Location</dt><dd>${esc(D.contact.location)}</dd></dl>
     <button class="btn" id="ping" type="button">Ping Remy</button><pre id="out" aria-live="polite"></pre>`,
