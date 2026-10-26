@@ -25,8 +25,8 @@ cisco = [x for x in D["certs"] if x.get("file")]
 def cert_cell(x):
     who = "" if x["issuer"] == "Cisco Networking Academy" else f'{e(x["issuer"])}, '
     return (f'<div class="cc"><b>{e(x["name"])}</b><br><span class="dm">{who}{datetime.datetime.strptime(x["year"], "%d %b %Y").strftime("%m/%y")}</span></div>')
-SPLIT = 7  # first 7 are networking and IT support, the rest are AI
-cisco_html = ('<div class="blk"><h2>IT Certifications</h2><div class="dm" style="margin:-2px 0 6px 12px">Cisco Networking Academy, 12 completed</div>'
+SPLIT = 8  # first 8 are networking and IT support, the rest are AI
+cisco_html = ('<div class="blk"><h2>IT Certifications</h2><div class="dm" style="margin:-2px 0 6px 12px">Cisco Networking Academy, 13 completed</div>'
               '<table class="ct"><tr><td><div class="gl">Networking and IT support</div>' + "".join(cert_cell(x) for x in cisco[:SPLIT])
               + '</td><td><div class="gl">Artificial intelligence</div>' + "".join(cert_cell(x) for x in cisco[SPLIT:]) + '</td></tr></table></div>')
 c = D["contact"]
